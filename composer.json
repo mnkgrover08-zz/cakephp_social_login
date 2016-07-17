@@ -1,6 +1,6 @@
 {
-    "name": "thetechnicalcircle/codeigniter_social_login",
-    "description": "Codeigniter Social Login Provides Third Party Logins in your Application using official SDK provided by Social Media Companies",
+    "name": "thetechnicalcircle/cakephp_social_login",
+    "description": "CakePHP Social Login Provides Third Party Logins in your Application using official SDK provided by Social Media Companies",
     "authors": [
         {
             "name": "Mayank Grover",
